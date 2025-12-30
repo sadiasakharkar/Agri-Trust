@@ -1,0 +1,10 @@
+
+{
+  "name": "Agri-Trust Carbon MRV",
+  "description": "A production-grade MRV system for Indian smallholder farmers to track carbon sequestration, verify farm practices, and earn carbon credits using AI, satellite data, and on-device validation.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
